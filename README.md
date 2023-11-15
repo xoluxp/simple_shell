@@ -1,5 +1,5 @@
 
-0x16. C - Simple Shel
+0x16. C - Simple shell 
 
 
 
